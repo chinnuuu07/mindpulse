@@ -1,0 +1,11 @@
+{
+  "name": "Remix M-Score AI 3D Mental Health \u0026 Wellness",
+  "description": "An AI 3D platform to track and improve your M-Score with an interactive real-time avatar, bio-camera scan, puzzles, wellness coaching, blood pressure tracking, and doctor scheduling.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
